@@ -290,7 +290,7 @@ public class MainActivity extends Activity {
 
 [アクセス解析による課金計測](./doc/analytics_purchase/README.md)
 
-[エンゲージメント配信について](./doc/fox_engagement/README.md)
+[ダイナミック配信連携について](./doc/dynamic/README.md)
 
 <div id="fox_trade"></div>
 ## 6. 広告配信機能
